@@ -10,7 +10,6 @@ This project demonstrates how AI can simulate different consumer types (Tech Ent
 
 ## 🚀 Live Demo
 
-[Add your Streamlit Cloud link here once deployed]
 
 ## 💡 Features
 
@@ -92,11 +91,11 @@ Built as part of application to BluePill AI to demonstrate understanding of cons
 ---
 
 ## **Your Folder Structure Should Look Like:**
-```
-bluepillproject/
+```bluepillproject/
 ├── app.py
 ├── requirements.txt
 ├── .env (NOT PUSHED)
 ├── .env.example (PUSHED)
 ├── .gitignore (PUSHED)
 └── README.md (PUSHED)
+```
